@@ -2,7 +2,7 @@ package atividade10;
 
 public class Arithmetic {
     public static void main(String[] args) {
-//algunsnúmeros
+//iniciando variáveis
         int i = 37;
         int j = 42;
         double x = 27.475;
@@ -12,19 +12,19 @@ public class Arithmetic {
         System.out.println("j = " + j);
         System.out.println("x = " + x);
         System.out.println("y = " + y);
-//adiçãodosnúmeros
+//adição
         System.out.println("Adição...");
         System.out.println("i + j = " + (i + j));
         System.out.println("x + y = " + (x + y));
-//subtraçãodosnúmeros
+//subtração
         System.out.println("Subtração...");
         System.out.println(" i - j = "+ (i - j));
         System.out.println(" x - y = "+ (x - y));
-// multiplicação dos números
+// multiplicação
         System.out.println("Multiplicação...");
         System.out.println(" i * j = "+ (i * j));
         System.out.println(" x * y = "+ (x * y));
-// divisão dos números
+// divisão
         System.out.println("Divisão...");
         System.out.println(" i / j = "+ (i / j));
         System.out.println(" x / y = "+ (x / y));
