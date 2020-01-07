@@ -8,7 +8,7 @@ public class Vetor1 {
         System.out.println("Total de casas de N é 7.");
         //laço para percorrer o array
         for (int i = 0; i < 7; i++) {
-            //imprime oas posições e seus respectivos valores
+            //imprime as posições e seus respectivos valores
             System.out.println("Na posição " + i + " temos " + n[i]);
         }
     }
